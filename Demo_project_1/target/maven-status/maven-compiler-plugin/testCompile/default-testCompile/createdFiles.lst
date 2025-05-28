@@ -1,0 +1,8 @@
+test_script\ManageContactTest.class
+test_script\ManageNewsTest.class
+generalReport\Listeners.class
+test_script\LoginTest.class
+test_script\AdminUsersTest.class
+retry\Retry.class
+test_script\Base.class
+test_script\Login.class
